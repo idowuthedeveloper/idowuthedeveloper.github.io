@@ -1,1 +1,3 @@
-# idowuthedeveloper.github.io
+# TS Academy First Class
+
+### HTML-CV, creating cv with HTML
